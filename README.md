@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Pedrosa ✌️.
+### Seja bem-vindo! Eu sou o Lucas Pedrosa ✌️.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pedrosa-117249200/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspedrosadesouza@gmail.com)
@@ -21,3 +21,5 @@ Meu nome é Lucas e venho apresentar minhas habilidades e experiência no campo 
 Tenho experiência em trabalhar com as principais tecnologias web, incluindo HTML5, React.js, Node.js, JavaScript, Scrum, API REST, TypeScript, CSS. 
 
 Sou uma pessoa proativa, com boa capacidade de comunicação e trabalho em equipe. Além disso, sou apaixonado por tecnologia e sempre busco estar atualizado com as últimas tendências e ferramentas do mercado.
+
+Sou Flamenguista, gosto de viajar, jogar e codar escutando música. 
