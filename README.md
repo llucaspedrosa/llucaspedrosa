@@ -18,6 +18,8 @@
 <br/>
 Meu nome é Lucas e venho apresentar minhas habilidades e experiência no campo do desenvolvimento Front-end. Possuo experiência em desenvolvimento de sites e aplicações web, tendo trabalhado em projetos de diversos tamanhos e complexidades.
 
+
 Tenho experiência em trabalhar com as principais tecnologias web, incluindo HTML5, React.js, Node.js, JavaScript, Scrum, API REST, TypeScript, CSS. 
+
 
 Sou uma pessoa proativa, com boa capacidade de comunicação e trabalho em equipe. Além disso, sou apaixonado por tecnologia e sempre busco estar atualizado com as últimas tendências e ferramentas do mercado.
